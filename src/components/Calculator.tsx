@@ -28,6 +28,7 @@ export default function Calculator() {
       <p className="card-text">Total: {calcState.total}</p>
       <p className="card-text">Previous Total: {calcState.previousTotal}</p>
       <p className="card-text">Value: {value}</p>
+      <p className="card-text">Previous Value: can't remember what this is </p>
     </div>
   );
 }
